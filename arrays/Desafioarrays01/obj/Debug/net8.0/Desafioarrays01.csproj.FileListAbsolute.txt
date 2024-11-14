@@ -1,0 +1,15 @@
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\bin\Debug\net8.0\Desafioarrays01.exe
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\bin\Debug\net8.0\Desafioarrays01.deps.json
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\bin\Debug\net8.0\Desafioarrays01.runtimeconfig.json
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\bin\Debug\net8.0\Desafioarrays01.dll
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\bin\Debug\net8.0\Desafioarrays01.pdb
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\Desafioarrays01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\Desafioarrays01.AssemblyInfoInputs.cache
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\Desafioarrays01.AssemblyInfo.cs
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\Desafioarrays01.csproj.CoreCompileInputs.cache
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\Desafioarrays01.sourcelink.json
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\Desafioarrays01.dll
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\refint\Desafioarrays01.dll
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\Desafioarrays01.pdb
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\Desafioarrays01.genruntimeconfig.cache
+C:\Users\56250454888\Desktop\aula backend\arrays\Desafioarrays01\obj\Debug\net8.0\ref\Desafioarrays01.dll

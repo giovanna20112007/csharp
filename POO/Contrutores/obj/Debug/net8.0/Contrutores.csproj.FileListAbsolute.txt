@@ -1,0 +1,15 @@
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\Contrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\Contrutores.AssemblyInfoInputs.cache
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\Contrutores.AssemblyInfo.cs
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\Contrutores.csproj.CoreCompileInputs.cache
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\Contrutores.sourcelink.json
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\bin\Debug\net8.0\Contrutores.exe
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\bin\Debug\net8.0\Contrutores.deps.json
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\bin\Debug\net8.0\Contrutores.runtimeconfig.json
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\bin\Debug\net8.0\Contrutores.dll
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\bin\Debug\net8.0\Contrutores.pdb
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\Contrutores.dll
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\refint\Contrutores.dll
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\Contrutores.pdb
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\Contrutores.genruntimeconfig.cache
+C:\Users\56250454888\Desktop\aula backend\POO\Contrutores\obj\Debug\net8.0\ref\Contrutores.dll

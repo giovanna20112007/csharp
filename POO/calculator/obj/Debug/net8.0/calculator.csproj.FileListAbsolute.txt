@@ -1,0 +1,15 @@
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\bin\Debug\net8.0\calculator.exe
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\bin\Debug\net8.0\calculator.deps.json
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\bin\Debug\net8.0\calculator.dll
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\bin\Debug\net8.0\calculator.pdb
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\calculator.sourcelink.json
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\calculator.dll
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\refint\calculator.dll
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\calculator.pdb
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\Users\56250454888\Desktop\aula backend\POO\calculator\obj\Debug\net8.0\ref\calculator.dll
